@@ -1,16 +1,52 @@
-## Hi there 👋
+# 🌟 Olá! Eu sou o Francisco Jailson
 
-<!--
-**jailsoncruzz/jailsoncruzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Desenvolvedor PHP | CodeIgniter | MySQL
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia e desenvolvimento web. Trabalho principalmente com **PHP**, **CodeIgniter**, **MySQL**, e utilizo **VSCode** como meu ambiente de desenvolvimento principal.  
+Busco sempre aprender, melhorar e criar soluções eficientes, limpas e escaláveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</div>
+
+---
+
+## 📫 Contato
+
+📌 **LinkedIn:** https://www.linkedin.com/in/jailsoncruzz/  
+📧 **Email:** jailsoncruz100@gmail.com  
+📸 **Instagram:** https://instagram.com/SEU_INSTAGRAM  
+
+---
+
+## 📊 GitHub Stats
+
+<div>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+## 🧩 Sobre mim
+
+- 💻 Desenvolvedor Back-end focado em PHP  
+- ⚡ Experiência com CodeIgniter  
+- 🚀 Criando soluções eficientes e escaláveis  
+- 📚 Sempre estudando novas tecnologias  
+- 🎯 Buscando novos desafios e oportunidades  
+
+---
+
+## 💡 Frase que me inspira  
+> *"Código limpo sempre vence."*
