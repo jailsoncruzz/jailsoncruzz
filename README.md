@@ -49,4 +49,4 @@ Busco sempre aprender, melhorar e criar soluções eficientes, limpas e escaláv
 ---
 
 ## 💡 Frase que me inspira  
-> *"Código limpo sempre vence."*
+> *"O maior valor é do trabalho."*
