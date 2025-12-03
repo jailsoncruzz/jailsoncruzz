@@ -1,6 +1,6 @@
-# 🌟 Olá! Eu sou o Francisco Jailson
+# Olá! Eu sou o Jailson Cruz
 
-### 👨‍💻 Desenvolvedor PHP | CodeIgniter | MySQL
+### Desenvolvedor PHP | CodeIgniter | MySQL
 
 Sou apaixonado por tecnologia e desenvolvimento web. Trabalho principalmente com **PHP**, **CodeIgniter**, **MySQL**, e utilizo **VSCode** como meu ambiente de desenvolvimento principal.  
 Busco sempre aprender, melhorar e criar soluções eficientes, limpas e escaláveis.
