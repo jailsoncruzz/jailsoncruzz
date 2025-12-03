@@ -7,7 +7,7 @@ Busco sempre aprender, melhorar e criar soluções eficientes, limpas e escaláv
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -21,24 +21,24 @@ Busco sempre aprender, melhorar e criar soluções eficientes, limpas e escaláv
 
 ---
 
-## 📫 Contato
+## Contato
 
-📌 **LinkedIn:** https://www.linkedin.com/in/jailsoncruzz/  
-📧 **Email:** jailsoncruz100@gmail.com  
-📸 **Instagram:** https://instagram.com/jailsoncruzz
-
----
-
-
-## 🧩 Sobre mim
-
-- 💻 Desenvolvedor Fullstack
-- ⚡ Experiência com CodeIgniter  
-- 🚀 Criando soluções eficientes e escaláveis  
-- 📚 Sempre estudando novas tecnologias  
-- 🎯 Buscando novos desafios e oportunidades  
+ **LinkedIn:** https://www.linkedin.com/in/jailsoncruzz/  
+ **Email:** jailsoncruz100@gmail.com  
+ **Instagram:** https://instagram.com/jailsoncruzz
 
 ---
 
-## 💡 Frase que me inspira  
+
+## Sobre mim
+
+-  Desenvolvedor Fullstack
+-  Experiência com CodeIgniter  
+-  Criando soluções eficientes e escaláveis  
+-  Sempre estudando novas tecnologias  
+-  Buscando novos desafios e oportunidades  
+
+---
+
+## Frase que me inspira  
 > *"O maior valor é do trabalho."*
