@@ -23,9 +23,10 @@ Busco sempre aprender, melhorar e criar soluções eficientes, limpas e escaláv
 
 ## Contato
 
- **LinkedIn:** https://www.linkedin.com/in/jailsoncruzz/  
- **Email:** jailsoncruz100@gmail.com  
- **Instagram:** https://instagram.com/jailsoncruzz
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jailsoncruzz/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jailsoncruz100@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jailsoncruzz)
+
 
 ---
 
