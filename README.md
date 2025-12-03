@@ -32,7 +32,7 @@ Busco sempre aprender, melhorar e criar soluções eficientes, limpas e escaláv
 ---
 
 ## Frase que me inspira  
-> *"O maior valor é do trabalho."*
+> *"O maior valor é o do trabalho."*
 
 ---
 
