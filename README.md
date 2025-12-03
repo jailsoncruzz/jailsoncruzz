@@ -32,8 +32,8 @@ Busco sempre aprender, melhorar e criar soluções eficientes, limpas e escaláv
 ## 📊 GitHub Stats
 
 <div>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jailsoncruzz&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailsoncruzz&layout=compact&theme=tokyonight" />
 </div>
 
 ---
