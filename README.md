@@ -25,7 +25,7 @@ Busco sempre aprender, melhorar e criar soluções eficientes, limpas e escaláv
 
 📌 **LinkedIn:** https://www.linkedin.com/in/jailsoncruzz/  
 📧 **Email:** jailsoncruz100@gmail.com  
-📸 **Instagram:** https://instagram.com/SEU_INSTAGRAM  
+📸 **Instagram:** https://instagram.com/jailsoncruzz
 
 ---
 
