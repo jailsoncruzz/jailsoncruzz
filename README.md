@@ -29,18 +29,10 @@ Busco sempre aprender, melhorar e criar soluções eficientes, limpas e escaláv
 
 ---
 
-## 📊 GitHub Stats
-
-<div>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jailsoncruzz&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailsoncruzz&layout=compact&theme=tokyonight" />
-</div>
-
----
 
 ## 🧩 Sobre mim
 
-- 💻 Desenvolvedor Back-end focado em PHP  
+- 💻 Desenvolvedor Fullstack
 - ⚡ Experiência com CodeIgniter  
 - 🚀 Criando soluções eficientes e escaláveis  
 - 📚 Sempre estudando novas tecnologias  
